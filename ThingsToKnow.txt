@@ -1,1 +1,8 @@
 
+Error:
+class GzipFile(io.BufferedIOBase): AttributeError: 'module' object has no attribute 'BufferedIOBase' installing python tables
+
+Solution:
+You should check for packages names io and 'N' in your own sources. Make sure they do not overlap definition of io builtin packages and numpy (you seemed to have imported as N)
+
+Renaming them solved this issue for me.
