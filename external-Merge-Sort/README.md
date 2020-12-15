@@ -118,4 +118,6 @@ and the </br> sortedOutputFile - *1 2 3 4 5 6 7 8 9 10*  . </br>We  would also b
 ![alt text](https://github.com/samirsahoo007/python/blob/master/images/ex3.png)
 ![alt text](https://github.com/samirsahoo007/python/blob/master/images/ex4.png)
 ![alt text](https://github.com/samirsahoo007/python/blob/master/images/ex5.png)
+![alt text](https://github.com/samirsahoo007/python/blob/master/images/ex6.png)
+![alt text](https://github.com/samirsahoo007/python/blob/master/images/ex7.png)
 
