@@ -1,3 +1,14 @@
+# How to set environment variable on windows
+1. Hold Win and press Pause.
+
+2. Click Advanced System Settings.
+
+3. Click Environment Variables.
+
+4. Append ;C:\python27 to the Path variable.
+
+5. Restart Command Prompt.
+
 # Debugging:
 
 ## How to set breakpoint in PyCharm
